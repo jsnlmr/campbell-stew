@@ -1,0 +1,16 @@
+$primary-color: #FFC857;
+$dark-color: #412234;
+$light-color: #BDD9BF;
+$light-accent: #2E4052;
+$dark-accent: #FFFFFF;
+
+body {
+  width: 100%;
+  background-color: $dark-color;
+  color: $light-color;
+}
+
+#top-img {
+  max-width: 100%;
+  height: auto;
+}
